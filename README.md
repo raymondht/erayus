@@ -10,9 +10,8 @@ My name is Raymond. I'm a Software Developer who is early in his career and stil
 <a href="https://github.com/erayus/erayus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erayus&theme=github_dark&langs_count=3" />
 </a>
-
-[![Rep Card](https://github-readme-stats.vercel.app/api/pin/?username=erayus&repo=LearnRaise&theme=github_dark)](https://github.com/erayus/LearnRaise)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=erayus&repo=smart-menu&theme=github_dark)](https://github.com/erayus/smart-menu)
+[![Rep Card](https://github-readme-stats.vercel.app/api/pin/?username=erayus&repo=LearnRaise&theme=github_dark)](https://github.com/erayus/LearnRaise)
 
 
 
