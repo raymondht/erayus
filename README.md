@@ -15,8 +15,13 @@ My name is Raymond. I'm a Software Developer who is in the early stage of his ca
 
 
 ## <img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="30px"> Where I share my learnings:
+<a href="https://medium.com/@raymondhieutran">
+  <img src="https://img.shields.io/badge/blog-Medium-black?logo=medium">
+</a>
+<a href="https://www.youtube.com/channel/UClmlGJpMFc54JlgC5ez9cJw">
+   <img src="https://img.shields.io/badge/video-YouTube-red?logo=youtube">
+</a>
 
-<img src="https://img.shields.io/badge/blog-medium-black?logo=medium&link=https://medium.com/@raymondhieutran&link=https://medium.com/@raymondhieutran"> <img src="https://img.shields.io/badge/video-YouTube-red?logo=youtube&link=https://www.youtube.com/channel/UClmlGJpMFc54JlgC5ez9cJw&link=https://www.youtube.com/channel/UClmlGJpMFc54JlgC5ez9cJw">
 
 
 ##  <img src="https://c.tenor.com/RW_cXj9_lwUAAAAj/call-me-lets-talk.gif" width="30px"> How to reach me:
