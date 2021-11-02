@@ -6,9 +6,9 @@ My name is Raymond. I'm a Software Developer who is early in his career and stil
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=erayus&count_private=true&show_icons=true&theme=github_dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erayus&repo=LearnRaise&theme=github_dark)](https://github.com/erayus/LearnRaise) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erayus&repo=smart-menu&theme=github_dark)](https://github.com/erayus/smart-menu)
+[![Rep Card](https://github-readme-stats.vercel.app/api/pin/?username=erayus&repo=LearnRaise&theme=github_dark)](https://github.com/erayus/LearnRaise)[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=erayus&repo=smart-menu&theme=github_dark)](https://github.com/erayus/smart-menu)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erayus&theme=github_dark)](https://github.com/erayus/github-readme-stats)
 
 
 ### <img src="https://c.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" width="30px"> Technologies and Tools
