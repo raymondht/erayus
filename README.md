@@ -1,4 +1,4 @@
-[![Header](https://github.com/erayus/erayus/blob/main/Erayus's%20banner.png?raw=true "Header")](https://some-url.dev/)
+<img src="https://github.com/erayus/erayus/blob/main/Erayus's%20banner.png?raw=true " width="100%">
 
 ### <img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gifhttps://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width="30px"> Hi friends 
 
@@ -13,7 +13,6 @@ My name is Raymond. I'm a Software Developer who is early in his career and stil
 
 [![Rep Card](https://github-readme-stats.vercel.app/api/pin/?username=erayus&repo=LearnRaise&theme=github_dark)](https://github.com/erayus/LearnRaise)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=erayus&repo=smart-menu&theme=github_dark)](https://github.com/erayus/smart-menu)
-
 
 
 
