@@ -12,7 +12,6 @@ My name is Raymond. I'm a Software Developer who is early in his career and stil
 </a>
 
 [![Rep Card](https://github-readme-stats.vercel.app/api/pin/?username=erayus&repo=LearnRaise&theme=github_dark)](https://github.com/erayus/LearnRaise)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=erayus&repo=smart-menu&theme=github_dark)](https://github.com/erayus/smart-menu)
 
 
 
