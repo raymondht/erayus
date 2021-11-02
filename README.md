@@ -5,7 +5,7 @@
 
 ## <img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gifhttps://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width="30px"> Yo fellows
 
-My name is Raymond. I'm a Software Developer who is in early stage of his career and still looking for his "one thing". Currently, I'm enjoying my time crafting software that connect people to their dream careers at PageUp 🤘.
+My name is Raymond. I'm a Software Developer who is in the early stage of his career and still looking for his "one thing". Currently, I'm enjoying my time crafting software that connect people to their dream careers at PageUp 🤘.
 
 
 
