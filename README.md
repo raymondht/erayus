@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://github.com/erayus/erayus/blob/main/Erayus%20banner.png?raw=true "Header")](https://some-url.dev/)
+[![Header](https://github.com/erayus/erayus/blob/main/Erayus-Banner-Small-Size.jpg?raw=true "Header")](https://some-url.dev/)
 
 <!--
 **erayus/erayus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
