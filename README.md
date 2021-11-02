@@ -12,13 +12,14 @@ My name is Raymond. I'm a Software Developer who is early in his career and stil
 </a>
 
 [![Rep Card](https://github-readme-stats.vercel.app/api/pin/?username=erayus&repo=LearnRaise&theme=github_dark)](https://github.com/erayus/LearnRaise)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=erayus&repo=smart-menu&theme=github_dark)](https://github.com/erayus/smart-menu)
 
 
 
 
 ### <img src="https://c.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" width="30px"> Technologies and Tools
 
-<img src="https://img.shields.io/badge/code-typescript%20-blue?logo=typescript"> <img src="https://img.shields.io/badge/code-.NET-blue?logo=.NET"> <img src="https://img.shields.io/badge/code-react-blue?logo=react"> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8Fcloud-aws services-orange"> <img src="https://img.shields.io/badge/cloud-cdk-orange"> <img src="https://img.shields.io/badge/cloud-cdk-orange">
+<img src="https://img.shields.io/badge/code-typescript%20-blue?logo=typescript"> <img src="https://img.shields.io/badge/code-.NET-blue?logo=.NET"> <img src="https://img.shields.io/badge/code-react-blue?logo=react"> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8Fcloud-aws services-orange"> <img src="https://img.shields.io/badge/cloud-cdk-orange">
 
 
 
