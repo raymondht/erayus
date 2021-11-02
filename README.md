@@ -1,6 +1,6 @@
 <img src="https://github.com/erayus/erayus/blob/main/Erayus's%20banner.png?raw=true " width="100%">
 <a href="https://app.daily.dev/erayus">
-  <img src="https://api.daily.dev/devcards/72e52a7d6b874b60897532e9c79bd1f8.png?r=k80" align="right" width="400" alt="Raymond Tran's Dev Card"/>
+  <img src="https://github.com/erayus/erayus/blob/main/devcard.svg" align="right" width="400" alt="Raymond Tran's Dev Card"/>
 </a>
 
 ## <img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gifhttps://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width="30px"> Yo fellows
