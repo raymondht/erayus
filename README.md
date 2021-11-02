@@ -1,6 +1,6 @@
 <img src="https://github.com/erayus/erayus/blob/main/Erayus's%20banner.png?raw=true " width="100%">
 <a href="https://app.daily.dev/erayus">
-  <img src="https://api.daily.dev/devcards/72e52a7d6b874b60897532e9c79bd1f8.png?r=l1e" align="right" width="400" alt="Raymond Tran's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/72e52a7d6b874b60897532e9c79bd1f8.png?r=k80" align="right" width="400" alt="Raymond Tran's Dev Card"/>
 </a>
 
 ## <img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gifhttps://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width="30px"> Yo fellows
@@ -21,7 +21,7 @@ My name is Raymond. I'm a Software Developer who is in early stage of his career
 <img src="https://img.shields.io/badge/video-YouTube-red?logo=youtube&link=https://www.youtube.com/channel/UClmlGJpMFc54JlgC5ez9cJw&link=https://www.youtube.com/channel/UClmlGJpMFc54JlgC5ez9cJw">
 
 
-##  <img src="https://c.tenor.com/TjPNxLu9KCYAAAAi/loof-and-timmy-trex.gif" width="30px"> How to reach me:
+##  <img src="https://c.tenor.com/RW_cXj9_lwUAAAAj/call-me-lets-talk.gif" width="30px"> How to reach me:
 ✉️ raymond@erayus.com
 
 <img src="https://user-images.githubusercontent.com/25966551/139851356-3fe378d2-3611-484e-a1ee-2f9aa2a0a33c.png" width="15px"> https://www.instagram.com/raymondhieutran/
