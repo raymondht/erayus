@@ -1,6 +1,6 @@
 <img src="https://github.com/erayus/erayus/blob/main/Erayus's%20banner.png?raw=true " width="100%">
 <a href="https://app.daily.dev/erayus">
-  <img src="https://github.com/erayus/erayus/blob/main/devcard.svg" align="right" width="400" alt="Raymond Tran's Dev Card"/>
+  <img src="https://github.com/erayus/erayus/blob/main/devcard.svg" align="right" width="300" alt="Raymond Tran's Dev Card"/>
 </a>
 
 ## <img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gifhttps://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width="30px"> Yo fellows
@@ -14,7 +14,7 @@ My name is Raymond. I'm a Software Developer who is in the early stage of his ca
 <img src="https://img.shields.io/badge/Code-typescript%20-blue?logo=typescript"> <img src="https://img.shields.io/badge/Code-.NET-blue?logo=.NET"> <img src="https://img.shields.io/badge/Code-react-blue?logo=react"> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws services-orange"> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws cdk-orange"> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws cdk-orange"> <img src="https://img.shields.io/badge/Tools-docker-green?logo=docker"> <img src="https://img.shields.io/badge/Tools-localstack-green?logo=localstack" > 
 
 
-## <img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="30px"> Where I share my learnings:
+## <img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="30px" style="margin: 20px"> Where I share my learnings:
 <a href="https://medium.com/@raymondhieutran">
   <img src="https://img.shields.io/badge/blog-Medium-black?logo=medium">
 </a>
