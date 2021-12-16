@@ -26,6 +26,7 @@ My name is Raymond. I'm a Software Developer who is in the early stage of his ca
 
 ##  <img src="https://c.tenor.com/RW_cXj9_lwUAAAAj/call-me-lets-talk.gif" width="30px"> How to reach me:
 ✉️ raymond@erayus.com
+
 <img src="https://user-images.githubusercontent.com/25966551/139856351-8a85bc9b-518f-483c-a5ef-2ad8366d3e03.png" width="15px"> https://www.linkedin.com/in/raymondhieutran/
 
 
