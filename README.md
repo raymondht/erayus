@@ -15,9 +15,9 @@ My name is Raymond. I'm a Software Developer who is in the early stage of his ca
 
 
 ## <img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="30px" style="margin: 20px"> Where I share my learnings:
-<a href="https://medium.com/@raymondhieutran">
+<!-- <a href="https://medium.com/@raymondhieutran">
   <img src="https://img.shields.io/badge/blog-Medium-black?logo=medium">
-</a>
+</a> -->
 <a href="https://www.youtube.com/channel/UCfYs_QBpc302aqQXz9O0vvw">
    <img src="https://img.shields.io/badge/video-YouTube-red?logo=youtube">
 </a>
