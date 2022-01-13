@@ -11,7 +11,13 @@ My name is Raymond. I'm a Software Developer who is in the early stage of his ca
 
 ## <img src="https://c.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" width="30px"> Technologies and Tools
 
-<img src="https://img.shields.io/badge/Code-typescript%20-blue?logo=typescript"> <img src="https://img.shields.io/badge/Code-.NET-blue?logo=.NET"> <img src="https://img.shields.io/badge/Code-react-blue?logo=react"> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws services-orange"> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws cdk-orange"> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws cdk-orange"> <img src="https://img.shields.io/badge/Tools-docker-green?logo=docker"> <img src="https://img.shields.io/badge/Tools-localstack-green?logo=localstack" > 
+<strong>Languages:</strong> <img src="https://img.shields.io/badge/Code-typescript%20-blue?logo=typescript">  <img src="https://img.shields.io/badge/Code-C%23-blue?logo=csharp"> 
+
+<strong>Front end:</strong> <img src="https://img.shields.io/badge/Code-react-blue?logo=react">
+
+<strong>Back end:</strong> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws services-orange"> <img src="https://img.shields.io/badge/Code-.NET-orange?logo=.NET">
+
+<strong>Infrastructure & DevOps:</strong> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws cdk-green"> <img src="https://img.shields.io/badge/Tools-docker-green?logo=docker"> <img src="https://img.shields.io/badge/Tools-localstack-green?logo=localstack" > 
 
 
 ## <img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="30px" style="margin: 20px"> Where I share my learnings:
